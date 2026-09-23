@@ -21,7 +21,7 @@
     ]
   },
   "app/components/tool-strip.tsx": {
-    "file": "assets/tool-strip-B5CUvFWk.js",
+    "file": "assets/tool-strip-Cj02okYJ.js",
     "name": "tool-strip",
     "src": "app/components/tool-strip.tsx",
     "isDynamicEntry": true,
@@ -31,7 +31,7 @@
     ]
   },
   "node_modules/vinext/dist/shims/layout-segment-context.js": {
-    "file": "assets/layout-segment-context-CqSdZ0UF.js",
+    "file": "assets/layout-segment-context-BWhyE2VW.js",
     "name": "layout-segment-context",
     "src": "node_modules/vinext/dist/shims/layout-segment-context.js",
     "isDynamicEntry": true,
@@ -42,7 +42,7 @@
     ]
   },
   "virtual:vinext-app-browser-entry": {
-    "file": "assets/index-CCXsonG7.js",
+    "file": "assets/index-BeyWYkZJ.js",
     "name": "index",
     "src": "virtual:vinext-app-browser-entry",
     "isEntry": true,
