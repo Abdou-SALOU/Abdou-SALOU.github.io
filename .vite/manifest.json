@@ -6,16 +6,12 @@
       "_rolldown-runtime-S-ySWqyJ.js"
     ]
   },
-  "_query-DZOG5WwV.js": {
-    "file": "assets/query-DZOG5WwV.js",
-    "name": "query"
-  },
   "_rolldown-runtime-S-ySWqyJ.js": {
     "file": "assets/rolldown-runtime-S-ySWqyJ.js",
     "name": "rolldown-runtime"
   },
   "app/components/motion.tsx": {
-    "file": "assets/motion-Dm230sSM.js",
+    "file": "assets/motion-C1ZY--SF.js",
     "name": "motion",
     "src": "app/components/motion.tsx",
     "isDynamicEntry": true,
@@ -25,7 +21,7 @@
     ]
   },
   "app/components/tool-strip.tsx": {
-    "file": "assets/tool-strip-Cd7mdtPD.js",
+    "file": "assets/tool-strip-B5CUvFWk.js",
     "name": "tool-strip",
     "src": "app/components/tool-strip.tsx",
     "isDynamicEntry": true,
@@ -35,7 +31,7 @@
     ]
   },
   "node_modules/vinext/dist/shims/layout-segment-context.js": {
-    "file": "assets/layout-segment-context-T_pCxcTf.js",
+    "file": "assets/layout-segment-context-CqSdZ0UF.js",
     "name": "layout-segment-context",
     "src": "node_modules/vinext/dist/shims/layout-segment-context.js",
     "isDynamicEntry": true,
@@ -45,38 +41,8 @@
       "_framework-DjPHiq1u.js"
     ]
   },
-  "node_modules/vinext/dist/shims/link.js": {
-    "file": "assets/link-GuvR1XM7.js",
-    "name": "link",
-    "src": "node_modules/vinext/dist/shims/link.js",
-    "isDynamicEntry": true,
-    "imports": [
-      "_rolldown-runtime-S-ySWqyJ.js",
-      "virtual:vinext-app-browser-entry",
-      "_framework-DjPHiq1u.js",
-      "_query-DZOG5WwV.js"
-    ],
-    "dynamicImports": [
-      "node_modules/vinext/dist/shims/router.js"
-    ]
-  },
-  "node_modules/vinext/dist/shims/router.js": {
-    "file": "assets/router-BeJnF7QP.js",
-    "name": "router",
-    "src": "node_modules/vinext/dist/shims/router.js",
-    "isDynamicEntry": true,
-    "imports": [
-      "_rolldown-runtime-S-ySWqyJ.js",
-      "virtual:vinext-app-browser-entry",
-      "_framework-DjPHiq1u.js",
-      "_query-DZOG5WwV.js"
-    ],
-    "dynamicImports": [
-      "_framework-DjPHiq1u.js"
-    ]
-  },
   "virtual:vinext-app-browser-entry": {
-    "file": "assets/index-Cv9sHKOD.js",
+    "file": "assets/index-CCXsonG7.js",
     "name": "index",
     "src": "virtual:vinext-app-browser-entry",
     "isEntry": true,
@@ -88,8 +54,7 @@
       "node_modules/vinext/dist/shims/layout-segment-context.js",
       "app/components/motion.tsx",
       "app/components/tool-strip.tsx",
-      "virtual:vinext-app-browser-entry",
-      "node_modules/vinext/dist/shims/link.js"
+      "virtual:vinext-app-browser-entry"
     ]
   }
 }
